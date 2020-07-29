@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "minigame-wolf",
+  "uuid": "d1c33f73-6db3-4af5-a4b8-c2030b804f5a",
+  "version": "2.3.4",
+  "id": "b152468d-059d-45f0-b5ec-8ec0ac7f8a79",
+  "isNew": false
+}

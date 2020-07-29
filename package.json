@@ -1,0 +1,19 @@
+{
+  "name": "minigame-9chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://1d05949942e4d708a2066d37c0aefb25e318da0c@114.55.7.123:3000/ee-front/minigame-9chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/msgpack-lite": "^0.1.6",
+    "msgpack-lite": "^0.1.26"
+  }
+}

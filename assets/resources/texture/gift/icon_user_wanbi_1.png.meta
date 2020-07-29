@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b2ae9846-8ca5-4be8-89db-c60529185fea",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 40,
+  "height": 40,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_user_wanbi_1": {
+      "ver": "1.0.4",
+      "uuid": "4c2ba0b2-5af7-487c-b7af-2e62a431e22c",
+      "rawTextureUuid": "b2ae9846-8ca5-4be8-89db-c60529185fea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 6,
+      "trimY": 6,
+      "width": 28,
+      "height": 28,
+      "rawWidth": 40,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

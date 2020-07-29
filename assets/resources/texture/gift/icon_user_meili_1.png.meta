@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0d2018ad-7fdf-46ac-8499-345e937dbe92",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 40,
+  "height": 40,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_user_meili_1": {
+      "ver": "1.0.4",
+      "uuid": "8e1c2e3d-5bd3-4e6d-9f74-1a87b486aeac",
+      "rawTextureUuid": "0d2018ad-7fdf-46ac-8499-345e937dbe92",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 8,
+      "trimY": 10,
+      "width": 24,
+      "height": 20,
+      "rawWidth": 40,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

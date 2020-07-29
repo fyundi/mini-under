@@ -1,0 +1,66 @@
+[
+    {
+        "ani_name": "bixin",
+        "icon": "https://res-yqwsq.oclkj.com/game/gift/gift_01_20101.png",
+        "id": 20101,
+        "img": "gift_01_20101",
+        "name": "比心",
+        "price": 1
+    },
+    {
+        "ani_name": "jidan",
+        "icon": "https://res-yqwsq.oclkj.com/game/gift/gift_01_20102.png",
+        "id": 20102,
+        "img": "gift_01_20102",
+        "name": "鸡蛋",
+        "price": 6
+    },
+    {
+        "ani_name": "tuoxie",
+        "icon": "https://res-yqwsq.oclkj.com/game/gift/gift_01_20103.png",
+        "id": 20103,
+        "img": "gift_01_20103",
+        "name": "拖鞋",
+        "price": 10
+    },
+    {
+        "ani_name": "dacall",
+        "icon": "https://res-yqwsq.oclkj.com/game/gift/gift_01_20104.png",
+        "id": 20104,
+        "img": "gift_01_20104",
+        "name": "打call",
+        "price": 18
+    },
+    {
+        "ani_name": "binkele",
+        "icon": "https://res-yqwsq.oclkj.com/game/gift/gift_01_20105.png",
+        "id": 20105,
+        "img": "gift_01_20105",
+        "name": "冰阔落",
+        "price": 30
+    },
+    {
+        "ani_name": "youpaimian",
+        "icon": "https://res-yqwsq.oclkj.com/game/gift/gift_01_20106.png",
+        "id": 20106,
+        "img": "gift_01_20106",
+        "name": "有排面",
+        "price": 88
+    },
+    {
+        "ani_name": "sabi",
+        "icon": "https://res-yqwsq.oclkj.com/game/gift/gift_01_20107.png",
+        "id": 20107,
+        "img": "gift_01_20107",
+        "name": "撒币",
+        "price": 188
+    },
+    {
+        "ani_name": "gaobaiqiqiu",
+        "icon": "https://res-yqwsq.oclkj.com/game/gift/gift_01_20108.png",
+        "id": 20108,
+        "img": "gift_01_20108",
+        "name": "告白气球",
+        "price": 520
+    }
+]
