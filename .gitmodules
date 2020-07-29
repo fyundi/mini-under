@@ -1,0 +1,3 @@
+[submodule "assets/base"]
+	path = assets/base
+	url = https://github.com/fyundi/mini-base.git
